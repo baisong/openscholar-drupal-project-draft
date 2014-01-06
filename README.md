@@ -4,7 +4,7 @@ A single OpenScholar install hosts thousands of easy, self-service, custom websi
 
 #### Development moved to GitHub
 
-* [GitHub repository](https://github.com/openscholar/openscholar) ([source code](https://github.com/openscholar/openscholar), [issue queue](https://github.com/openscholar/openscholar/issues), [developer wiki](https://github.com/openscholar/openscholar/wiki])
+* [GitHub repository](https://github.com/openscholar/openscholar) ([source code](https://github.com/openscholar/openscholar), [issue queue](https://github.com/openscholar/openscholar/issues), [developer wiki](https://github.com/openscholar/openscholar/wiki]))
 
 ### About
 OpenScholar is an open source SaaS platform built as a Drupal distribution. It’s a web site builder application that allows end users to easily create dynamic and customizable web sites. Each site comes with a suite of apps, widgets and themes, enabling users to build and manage feature-rich web sites.
