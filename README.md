@@ -1,3 +1,7 @@
+The easiest way to power all of your institution's websites.
+
+A single OpenScholar install hosts thousands of easy, self-service, custom websites. Supports multiple domain names, dozens of built-in themes, site presets and "apps" that solve virtually every use case.
+
 ### Development moved to GitHub
 OpenScholar is under active development on GitHub
 
