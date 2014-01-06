@@ -1,6 +1,6 @@
 The easiest way to power all of your institution's websites.
 
-OpenScholar is an open source SaaS platform built as a Drupal distribution. A single OpenScholar install hosts thousands of easy, self-service, custom websites. Supports multiple domain names, dozens of built-in themes, site presets and "apps" that solve virtually every use case.
+OpenScholar is an open source SaaS platform built as a Drupal distribution. A single OpenScholar install hosts thousands of easy, self-service, custom websites. Features multiple domain names, dozens of built-in themes, drag-and-drop layout, best-practice presets and "apps" that solve virtually every use case.
 
 #### [Download](http://theopenscholar.org/download)
 
