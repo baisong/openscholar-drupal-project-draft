@@ -2,15 +2,17 @@ The easiest way to power all of your institution's websites.
 
 A single OpenScholar install hosts thousands of easy, self-service, custom websites. Supports multiple domain names, dozens of built-in themes, site presets and "apps" that solve virtually every use case.
 
+#### Example sites built with OpenScholar
+
+* [Scholars @ Harvard](http://scholar.harvard.edu) powers 2000+ self-service personal sites
+* [Featured Sites on Harvard Web Publishing](http://hwp.harvard.edu/pages/featured-sites)
+
 #### Development moved to GitHub
 
 * [GitHub repository](https://github.com/openscholar/openscholar) ([source code](https://github.com/openscholar/openscholar), [issue queue](https://github.com/openscholar/openscholar/issues), [developer wiki](https://github.com/openscholar/openscholar/wiki]))
 
 ### About
 OpenScholar is an open source SaaS platform built as a Drupal distribution. It’s a web site builder application that allows end users to easily create dynamic and customizable web sites. Each site comes with a suite of apps, widgets and themes, enabling users to build and manage feature-rich web sites.
-
-### Demo
-http://scholar.harvard.edu
 
 ### Download
 https://github.com/openscholar/openscholar/tags
