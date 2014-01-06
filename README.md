@@ -19,6 +19,6 @@ OpenScholar is an open source SaaS platform built as a Drupal distribution. A si
 
 #### Development moved to GitHub
 
-* [GitHub repository](https://github.com/openscholar/openscholar) ([source code](https://github.com/openscholar/openscholar), [issue queue](https://github.com/openscholar/openscholar/issues), [developer wiki](https://github.com/openscholar/openscholar/wiki]))
+See our [GitHub repository](https://github.com/openscholar/openscholar) for [source code](https://github.com/openscholar/openscholar), [issue queue](https://github.com/openscholar/openscholar/issues), [developer wiki](https://github.com/openscholar/openscholar/wiki]).
 
 OpenScholar is developed and maintained by The Institute for Quantitative Social Science in collaboration with HPAC and HUIT, at Harvard University
