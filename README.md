@@ -4,7 +4,7 @@ OpenScholar is an open source SaaS platform built as a Drupal distribution. A si
 
 #### [Download](http://theopenscholar.org/download)
 
-#### Example OpenScholar sites
+#### Featured OpenScholar sites
 
 * [Scholars @ Harvard](http://scholar.harvard.edu) powers 2000+ self-service personal sites
 * [Featured Sites on Harvard Web Publishing](http://hwp.harvard.edu/pages/featured-sites)
