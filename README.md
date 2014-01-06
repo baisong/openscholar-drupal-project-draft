@@ -14,7 +14,7 @@ OpenScholar is an open source SaaS platform built as a Drupal distribution. A si
 * [Roadmap and recent changes](http://theopenscholar.org/roadmap)
 * [Support Center](http://support.openscholar.harvard.edu/)
 * [Community Forum](http://community.openscholar.harvard.edu/openscholar)
-* [Live chat](http://webchat.freenode.net/?nick=guest&channels=#openscholar)
+* [Live web chat (IRC)](http://webchat.freenode.net/?nick=guest&channels=#openscholar)
 * [Drupal Group](http://groups.drupal.org/openscholar)
 
 #### Development moved to GitHub
