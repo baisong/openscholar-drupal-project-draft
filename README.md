@@ -4,20 +4,21 @@ OpenScholar is an open source SaaS platform built as a Drupal distribution. A si
 
 #### [Download](http://theopenscholar.org/download)
 
-#### Example sites
+#### Example OpenScholar sites
 
 * [Scholars @ Harvard](http://scholar.harvard.edu) powers 2000+ self-service personal sites
 * [Featured Sites on Harvard Web Publishing](http://hwp.harvard.edu/pages/featured-sites)
+
+#### Learn more
+
+* [Roadmap and recent changes](http://theopenscholar.org/roadmap)
+* [Support Center](http://support.openscholar.harvard.edu/)
+* [Community Forum](http://community.openscholar.harvard.edu/openscholar)
+* [Live chat](http://webchat.freenode.net/?nick=guest&channels=#openscholar)
+* [Drupal Group](http://groups.drupal.org/openscholar)
 
 #### Development moved to GitHub
 
 * [GitHub repository](https://github.com/openscholar/openscholar) ([source code](https://github.com/openscholar/openscholar), [issue queue](https://github.com/openscholar/openscholar/issues), [developer wiki](https://github.com/openscholar/openscholar/wiki]))
 
-#### OpenScholar Discussion Group
-For questions, answers, discussions, etc., please visit the OpenScholar group page: http://groups.drupal.org/openscholar
-
-#### Maintanance and Development
 OpenScholar is developed and maintained by The Institute for Quantitative Social Science in collaboration with HPAC and HUIT, at Harvard University
-
-#### Support
-Please use the issue queue for any support issues. We have an IRC channel, #openscholar on irc.freenode.net
