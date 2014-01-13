@@ -11,11 +11,16 @@ OpenScholar is an open source SaaS platform built as a Drupal distribution. A si
 
 #### Learn more
 
-* [Roadmap and recent changes](http://theopenscholar.org/roadmap)
-* [Support Center](http://support.openscholar.harvard.edu/)
-* [Community Forum](http://community.openscholar.harvard.edu/openscholar)
-* [Live web chat (IRC)](http://webchat.freenode.net/?nick=guest&channels=#openscholar)
-* [Drupal Group](http://groups.drupal.org/openscholar)
+* How do I...? -- Search the [Support Center](http://support.openscholar.harvard.edu/)!
+* What's this error? -- Post to the [Forum](http://community.openscholar.harvard.edu/openscholar)!
+* My install isn't working? -- Search the [Issue queue](https://github.com/openscholar/openscholar/issues)!
+* I'm sure it's a bug! -- Post a [GitHub issue](https://github.com/openscholar/openscholar/issues)!
+* I have an idea/request -- Post to the [Forum](http://community.openscholar.harvard.edu/openscholar)!
+* Why do you...? -- Post to the [Forum](http://community.openscholar.harvard.edu/openscholar)!
+* When will you...? -- [Roadmap and recent changes](http://theopenscholar.org/roadmap)
+* Help me right now? -- [Live web chat (IRC)](http://webchat.freenode.net/?nick=guest&channels=#openscholar)
+* What about this Drupal thing...? -- [Drupal Group](http://groups.drupal.org/openscholar)
+* Wow, OpenScholar is crazy good. -- Aw, shucks!
 
 #### Development moved to GitHub
 
