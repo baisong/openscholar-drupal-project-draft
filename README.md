@@ -11,10 +11,10 @@ OpenScholar is an open source SaaS platform built as a Drupal distribution. A si
 
 #### Learn more
 
-* How do I...? -- Search the [Support Center](http://support.openscholar.harvard.edu/)!
+* I have an idea/request -- Post to the [Forum](http://community.openscholar.harvard.edu/openscholar)!
+* How do I...? -- Read the [Docs](http://projects.iq.harvard.edu/osdocs)!
 * What's this error? -- Post to the [Forum](http://community.openscholar.harvard.edu/openscholar)!
 * My install isn't working? -- Post an [issue](https://github.com/openscholar/openscholar/issues)!
-* I have an idea/request -- Post to the [Forum](http://community.openscholar.harvard.edu/openscholar)!
 * When will you...? -- [Roadmap and recent changes](http://theopenscholar.org/roadmap)
 * Help me right now? -- [Live web chat (IRC)](http://webchat.freenode.net/?nick=guest&channels=#openscholar)
 * What about this Drupal thing...? -- [Drupal Group](http://groups.drupal.org/openscholar)
